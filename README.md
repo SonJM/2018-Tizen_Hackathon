@@ -157,3 +157,4 @@ hh: 상대 높이
 1자리 숫자의 경우 0을 넣어서 전체 길이를 고정한다.
 
 TTNNxxyywwhhxxyywwhh....xxyywwhh 의 형태의 스트링이 된다.
+123
